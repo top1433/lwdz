@@ -1,7 +1,4 @@
 <?php 
-	echo "hello php!";
-	echo "hello git!";
-	echo "nihao git!";
 
 	define('DB_HOST', 'localhost');
 	define('DB_USER', 'root');
