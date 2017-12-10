@@ -6,7 +6,7 @@
 	define('DB_NAME', 'guestbook');
 	define('GB_TABLE_NAME', 'guestbook');
 	define('ADMIN_TABLE_NAME', 'user');
-	define('PER_PAGE_GB', 5);
+	define('PER_PAGE_GB', 3);
 	
 
 	$debug=true;
